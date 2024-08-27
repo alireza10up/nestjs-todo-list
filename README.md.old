@@ -1,0 +1,36 @@
+<div align="center">
+  <h1>🚀 پروژه لیست کارها با NestJS 📝</h1>
+  <p>
+    <strong>یک پروژه ساده و کاربردی برای یادگیری NestJS</strong>
+  </p>
+</div>
+
+<p align="center">
+  <img src="https://nestjs.com/img/logo-small.svg" width="120" alt="NestJS Logo" />
+</p>
+
+<div align="center">
+  
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  [![NestJS](https://img.shields.io/badge/NestJS-8.0.0-red.svg)](https://nestjs.com/)
+  [![TypeScript](https://img.shields.io/badge/TypeScript-4.3.5-blue.svg)](https://www.typescriptlang.org/)
+
+</div>
+
+## 🌟 ویژگی‌ها
+
+- ✅ ایجاد، خواندن، به‌روزرسانی و حذف کارها
+- 🔄 مدیریت وضعیت کارها (انجام شده / انجام نشده)
+- 🎨 رابط کاربری ساده و کاربرپسند
+- 🔒 امنیت بالا با استفاده از بهترین شیوه‌های NestJS
+
+## 🚀 شروع کار
+
+### پیش‌نیازها
+
+- Node.js (نسخه 14 یا بالاتر)
+- npm یا yarn
+
+### نصب و راه‌اندازی
+
+۱. مخزن را کلون کنید:
